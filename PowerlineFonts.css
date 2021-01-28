@@ -5,6 +5,12 @@
 }
 
 @font-face {
+    font-family: "FiraCode Regular";
+    src: local("FiraCode Regular"),
+         url(fonts/FiraCode-Regular.woff) format("woff");
+}
+
+@font-face {
     font-family: "DejaVu Sans Mono";
     src: local("DejaVu Sans Mono for Powerline"),
          url(fonts/DejaVuSansMono.woff2) format("woff2");
